@@ -45,7 +45,6 @@ NewsCloud is a clean and intuitive news reader app that allows users to browse n
 - 🛡️ **Error Handling**: Graceful error handling for network issues and failed requests
 - 🎨 **Responsive Design**: Clean UI with smooth scrolling and optimized layouts
 
-## 🎓 What I Learned
 
 ## 🎓 What I Learned
 

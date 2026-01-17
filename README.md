@@ -8,13 +8,15 @@ This section provides a quick preview of the app's main features and demonstrate
 ### 🧭 Feature Preview
 
 #### 🏠 Home Screen
-https://github.com/USERNAME/REPOSITORY/assets/VIDEO_ID_HOME
+https://github.com/ahmed-eltantawi/News_Cloud/assets/screenShots/home_page.png
 
 #### 🗂️ Category News Screen
-https://github.com/USERNAME/REPOSITORY/assets/VIDEO_ID_CATEGORY
+https://github.com/ahmed-eltantawi/News_Cloud/assets/screenShots/category_newss_creen.png
+
 
 #### 🌐 Article WebView Screen
-https://github.com/USERNAME/REPOSITORY/assets/VIDEO_ID_WEBVIEW
+https://github.com/ahmed-eltantawi/News_Cloud/assets/screenShots/article_webView_screen.png
+
 
 ---
 

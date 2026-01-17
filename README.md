@@ -22,7 +22,7 @@ This section provides a quick preview of the app's main features and demonstrate
 ## 📱💻 Video Demo
 
 ### 📱 Mobile (Android)
-[Video demo link](https://github.com/ahmed-eltantawi/News_Cloud/assets/videoDemo/Android_demo.mp4)
+[Video demo link](assets/videoDemo/Android_demo.mp4)
 
 
 

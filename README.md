@@ -15,7 +15,7 @@ https://github.com/ahmed-eltantawi/News_Cloud/blob/main/assets/screenShots/categ
 
 
 #### 🌐 Article WebView Screen
-https://github.com/ahmed-eltantawi/News_Cloud/blob/main/assets/screenShots/article_webView_screen.png
+https://github.com/ahmed-eltantawi/News_Cloud/main/assets/screenShots/article_webView_screen.png
 
 
 ---

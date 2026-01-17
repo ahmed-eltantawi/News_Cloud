@@ -11,7 +11,7 @@ final class CategoryList extends StatelessWidget {
       name: "Entertainment",
     ),
     CategoryModel(image: 'assets/Catergories/science.avif', name: "Science"),
-    CategoryModel(image: 'assets/Catergories/health.avif', name: "uHealth"),
+    CategoryModel(image: 'assets/Catergories/health.avif', name: "Health"),
     CategoryModel(image: 'assets/Catergories/sports.avif', name: "Sports"),
     CategoryModel(
       image: 'assets/Catergories/technology.jpg',

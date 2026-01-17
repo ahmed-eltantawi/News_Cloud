@@ -1,6 +1,6 @@
 {
-    "name": "newsapp",
-    "short_name": "newsapp",
+    "name": "new_cloud",
+    "short_name": "new_cloud",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

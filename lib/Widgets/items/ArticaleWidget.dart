@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:newsapp/Models/article_model.dart';
-import 'package:newsapp/Views/Article_web_view.dart';
+import 'package:newsapp/Views/article_model.dart';
 
 class ArticaleWidget extends StatelessWidget {
   const ArticaleWidget({super.key, required this.article});
@@ -36,7 +36,7 @@ class ArticaleWidget extends StatelessWidget {
                 ClipRRect(
                   borderRadius: BorderRadiusGeometry.circular(10),
                   child: article.image == null
-                      ? Image.asset("assets/NoImage.jpg")
+                      ? Image.asset("assets/errors/NoImage.jpg")
                       : article.image!.startsWith("assets")
                       ? Image.asset(article.image!)
                       : networkImage(),
@@ -80,7 +80,7 @@ class ArticaleWidget extends StatelessWidget {
       );
       return image;
     } catch (e) {
-      return Image.asset("assets/NoImage.jpg");
+      return Image.asset("assets/errors/NoImage.jpg");
     }
   }
 }

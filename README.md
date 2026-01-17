@@ -18,17 +18,16 @@ https://github.com/USERNAME/REPOSITORY/assets/VIDEO_ID_WEBVIEW
 
 ---
 
-## 📱💻 Multi-Device Video Demo
-This section demonstrates how the app works across different devices and screen sizes.
+## 📱💻 Video Demo
 
 ### 📱 Mobile (Android)
-https://github.com/USERNAME/REPOSITORY/assets/VIDEO_ID_MOBILE
+[Video demo link](https://github.com/ahmed-eltantawi/News_Cloud/assets/videoDemo/Android_demo.mp4)
 
-### 📱 Tablet
-https://github.com/USERNAME/REPOSITORY/assets/VIDEO_ID_TABLET
 
-### 💻 Large Screen / Emulator
-https://github.com/USERNAME/REPOSITORY/assets/VIDEO_ID_DESKTOP
+
+https://github.com/user-attachments/assets/3e69b611-6ca3-45e1-84c7-ddd6983c1614
+
+
 
 ---
 

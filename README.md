@@ -6,17 +6,6 @@ A modern Flutter news application that fetches and displays the latest news arti
 This section provides a quick preview of the app's main features and demonstrates how it works across different screens and devices.
 
 ### 🧭 Feature Preview
-
-#### 🏠 Home Screen
-<img src="assets/screenShots/home_page.png" width="300"/>
-
-
-#### 🗂️ Category News Screen
-<img src="assets/screenShots/category_newss_creen.png" width="300"/>
-
-#### 🌐 Article WebView Screen
-<img src="assets/screenShots/article_webView_screen.png" width="300"/>
-
 ---
 
 ## 📱💻 Video Demo
@@ -35,6 +24,18 @@ https://github.com/user-attachments/assets/eb514394-bcf5-4aae-8508-f2aa4e75fea6
 
 
 ---
+
+#### 🏠 Home Screen
+<img src="assets/screenShots/home_page.png" width="300"/>
+
+
+#### 🗂️ Category News Screen
+<img src="assets/screenShots/category_newss_creen.png" width="300"/>
+
+#### 🌐 Article WebView Screen
+<img src="assets/screenShots/article_webView_screen.png" width="300"/>
+
+
 
 ## 📋 Overview
 

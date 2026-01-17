@@ -8,15 +8,14 @@ This section provides a quick preview of the app's main features and demonstrate
 ### 🧭 Feature Preview
 
 #### 🏠 Home Screen
-https://github.com/ahmed-eltantawi/News_Cloud/blob/main/assets/screenShots/home_page.png
+<img src="assets/screenShots/home_page.png" width="300"/>
+
 
 #### 🗂️ Category News Screen
-https://github.com/ahmed-eltantawi/News_Cloud/blob/main/assets/screenShots/category_newss_creen.png
-
+<img src="assets/screenShots/category_newss_creen.png" width="300"/>
 
 #### 🌐 Article WebView Screen
-https://github.com/ahmed-eltantawi/News_Cloud/main/assets/screenShots/article_webView_screen.png
-
+<img src="assets/screenShots/article_webView_screen.png" width="300"/>
 
 ---
 

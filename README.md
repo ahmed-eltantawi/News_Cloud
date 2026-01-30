@@ -5,11 +5,19 @@ A modern Flutter news application that fetches and displays the latest news arti
 ## 🎥 App Preview & Video Demo
 This section provides a quick preview of the app's main features and demonstrates how it works across different screens and devices.
 
-### 🧭 Feature Preview
 ---
 
-## 📱💻 Video Demo
+---
 
+# 🤖 Download the Android app here.
+[Donwload now](https://ahmedeltantawi.netlify.app/News_Cloud.apk)
+
+
+
+---
+
+
+---
 
 ### 📱 Mobile (Android)
 
@@ -153,5 +161,6 @@ This project is built for educational purposes.
 
 - 📰 News data provided by [NewsAPI](https://newsapi.org/)
 - 🦋 Built with Flutter framework
+
 
 

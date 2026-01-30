@@ -13,7 +13,10 @@ This section provides a quick preview of the app's main features and demonstrate
 
 ### 📱 Mobile (Android)
 
-https://github.com/user-attachments/assets/eb514394-bcf5-4aae-8508-f2aa4e75fea6
+
+
+https://github.com/user-attachments/assets/09513710-2591-4b27-95bc-35117a165654
+
 
 
 
@@ -150,4 +153,5 @@ This project is built for educational purposes.
 
 - 📰 News data provided by [NewsAPI](https://newsapi.org/)
 - 🦋 Built with Flutter framework
+
 

@@ -7,7 +7,6 @@ This section provides a quick preview of the app's main features and demonstrate
 
 ---
 
----
 
 # 🤖 Download the Android app here.
 [Donwload now](https://ahmedeltantawi.netlify.app/News_Cloud.apk)
@@ -17,7 +16,6 @@ This section provides a quick preview of the app's main features and demonstrate
 ---
 
 
----
 
 ### 📱 Mobile (Android)
 
@@ -161,6 +159,7 @@ This project is built for educational purposes.
 
 - 📰 News data provided by [NewsAPI](https://newsapi.org/)
 - 🦋 Built with Flutter framework
+
 
 
 
